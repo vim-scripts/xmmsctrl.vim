@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=703
+
+Install the file into plugins/ folder as usual.
+Don't forget to install xmmsctrl utility (search xmms.org or freshmeat).
+Also read comments in file to customize xmms songchange plugin for maximum
+effect.
+
+
